@@ -1,0 +1,28 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_b749fb5 { box-sizing: border-box; border-radius: 15px 0px 15px 0px; position:absolute; left:1%; top:7%; width:150px; height:40px; background-color:#FF8000; background: linear-gradient(to bottom, #008D46, #FF8000); border: 2px solid #111E18;  }
+#button_b749fb5:hover { background-color:#FF7950; background: linear-gradient(to bottom, #004D56, #FF7950); border-color:#000000;  }
+#button_b749fb5:hover span { color:#000000; }
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#img_2cc87846 { position:absolute; left:0%; top:16%; width:99%; background:none;  }
+#container_7ecb5c5f { box-sizing: border-box; vertical-align: top; border-radius: 9px; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#804000; background: linear-gradient(to bottom, #006719, #804000); border: 1px solid #545454;  }
+#container_7ecb5c5f_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:26pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+#text_6532fa0e { position:absolute; left:1%; top:23%; background:none;  }
+#img_5413056b { position:absolute; left:44%; top:43%; width:50%; background:none;  }
+#text_5fdec02b { position:absolute; left:45%; top:44%; background:none;  }
+.textstyle5 { font-size:16pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
+#img_5bfa6758 { position:absolute; left:3%; top:80%; width:37%; background:none;  }
+#text_36e1e858 { position:absolute; left:5%; top:103%; background:none;  }
+.textstyle6 { font-size:20pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
+#img_510d7fec { position:absolute; left:47%; top:103%; width:37%; background:none;  }
+#text_16337b5f { position:absolute; left:48%; top:104%; width:402px; height:46px; background:none;  }
+.textstyle7 { font-size:12pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
+#img_52958ea5 { position:absolute; left:4%; top:44%; width:28%; background:none;  }
